@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "testStardust.data.unityweb",
+"asmCodeUrl": "testStardust.asm.code.unityweb",
+"asmMemoryUrl": "testStardust.asm.memory.unityweb",
+"asmFrameworkUrl": "testStardust.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#256080"
+}
